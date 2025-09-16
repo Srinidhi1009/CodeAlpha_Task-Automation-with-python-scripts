@@ -66,7 +66,9 @@ admin123@test.com
 * Handling **file input and output** in Python.
 * Automating repetitive tasks with small scripts.
 * Writing reusable and simple automation utilities.
+---
+  **Author**: Srinidhi
+  **Internship**: CodeAlpha Internship
+  **Task**: Task 3 – Task Automation with Python Scripts (Email Extractor)
 
- ## **Author**: Srinidhi
- ## **Internship**: CodeAlpha Internship
- ## **Task**: Task 3 – Task Automation with Python Scripts (Email Extractor)
+
